@@ -56,6 +56,6 @@
     "safe-publish-latest": "^1.0.1"
   },
   "peerDependencies": {
-    "react-native": ">= 0.8.0"
+    "react-native": ">=0.41.1"
   }
 }
