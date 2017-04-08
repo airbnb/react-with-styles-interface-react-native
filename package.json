@@ -42,7 +42,7 @@
     "airbnb-js-shims": "^1.0.1",
     "babel-cli": "^6.11.4",
     "babel-preset-airbnb": "^2.0.0",
-    "babel-register": "^6.11.6",
+    "babel-register": "6.24.0",
     "chai": "^3.5.0",
     "eslint": "^3.3.1",
     "eslint-config-airbnb-base": "^11.0.1",
